@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+procedure Insertion sort (t:array of integer[])
+var 
+num,i :integer
+begin 
+for (i:=0;i<(t.length-1);i++) do{
+    if (num < t[i]) then 
+         t[i] = num   
+
+}
+read (t[i])
+end
